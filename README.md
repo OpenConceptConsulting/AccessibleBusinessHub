@@ -1,2 +1,2 @@
-# cab-hub..github.io
+# cab-hub.github.io
 Canadian Accessibility Business Hub
