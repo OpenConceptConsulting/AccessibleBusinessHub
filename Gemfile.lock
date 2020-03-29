@@ -5,7 +5,7 @@ PATH
       jekyll (~> 4.0)
 
 GEM
-  remote: https://rubygems.org/
+  remote: http://rubygems.org/
   specs:
     addressable (2.7.0)
       public_suffix (>= 2.0.2, < 5.0)
@@ -68,4 +68,4 @@ DEPENDENCIES
   elementary!
 
 BUNDLED WITH
-   1.16.1
+   2.1.2
