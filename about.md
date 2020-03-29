@@ -11,6 +11,8 @@ Max Brault was a bilingual legislation and policy leader with almost 20 years of
 
 In September 2019, Max began a business venture with BDO Canada as a Vice-president of Strategy and Operations with the firm. In this position, he will continue his endeavors, guided by the following vision: To build community by showing the world that Canadians with disabilities contribute to society―and to successful business ventures.
 
+![Max Brault](/assets/images/max.jpg)
+
 
 ## Dean Emerick, Accessible Digital Media Specialist
 [Accessibility TV](https://www.accessibilitytv.com/)
@@ -21,6 +23,8 @@ Digital: Dean is a thought leader and innovator in digital communications. He ha
  
 Dean’s background in television and film production is extensive. His background includes working on some of North American’s most successful TV series and providing video production services to several of Canada’s most well-known brands, people-of-note and celebrities. 
 
+![Dean Emerick](/assets/images/dean.jpg)
+
 
 ## Heather Badenoch
 [Village PR](http://Villagepr.ca)
@@ -28,6 +32,8 @@ Dean’s background in television and film production is extensive. His backgrou
 Heather Badenoch believes in the power of not-for-profits and the strength they have to effect change for people, animals and our environment. As the Chief Strategist at [Village PR](http://villagepr.ca/) she provides communications planning and implementation, public relations, social media engagement, and training to not-for-profits across Canada.
 
 Heather works strategically and creatively with her clients to accomplish their communication goals. In 2002, Heather left private sector communications to find meaningful work that aligned with her values. Feeling an instant connection to individuals relentlessly dedicated to change, she found her calling in the not-for-profit sector and has never looked back. In her career of supporting organizations across Canada for more than fifteen years, Heather has developed a deep appreciation and understanding of the players, pressures and meaningful work being done by the not-for-profit sector. In early 2018, Heather became a [living liver donor](https://www.todaysparent.com/blogs/this-woman-did-the-most-wonderful-thing-for-a-kid-shell-never-meet/) for a stranger in Toronto; for a child whose identity she doesn’t know.
+
+![Heather Badenoch](/assets/images/heather.png)
 
 ## Jamie Burton
 [Canadian Council on Rehabilitation and Work](https://www.ccrw.org/)
@@ -42,5 +48,8 @@ Jamie is seconded from her position as the Vice-President of Dolphin Digital Tec
 Mike is the CEO of OpenConcept Consulting Inc. and Drupal Core Accessibility Maintainer. 
 Mike founded the first Ottawa Accessibility Unconference Dec 2, 2011. Since that time he has been involved in co-organizing multiple accessibility events in Ottawa. He has presented at several global accessibility conferences including A11yLondon, CSUN & M-Enabling.
 Mike built a tech company based on collaboration knowing that only by working together, can we address the world's most important challenges. Digital accessibility is a technical problem, but more importantly it is a systems problem. OpenConcept is now doing assessment, training and leadership guidance for organizations looking to build a more digitally inclusive workforce. 
+
+![Mike Gifford](/assets/images/mike.jpg)
+
 
 
