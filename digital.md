@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Working digitally
+title: Working Digitally
 permalink: /digital/
 ---
 
