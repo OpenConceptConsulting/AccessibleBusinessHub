@@ -23,7 +23,11 @@ Digital: Dean is a thought leader and innovator in digital communications. He ha
 Dean’s background in television and film production is extensive. His background includes working on some of North American’s most successful TV series and providing video production services to several of Canada’s most well-known brands, people-of-note and celebrities. 
 
 
-## Heather, villagepr.ca
+## Heather Badenoch, villagepr.ca
+
+Heather Badenoch believes in the power of not-for-profits and the strength they have to effect change for people, animals and our environment. As the Chief Strategist at [Village PR](http://villagepr.ca/) she provides communications planning and implementation, public relations, social media engagement, and training to not-for-profits across Canada.
+
+Heather works strategically and creatively with her clients to accomplish their communication goals. In 2002, Heather left private sector communications to find meaningful work that aligned with her values. Feeling an instant connection to individuals relentlessly dedicated to change, she found her calling in the not-for-profit sector and has never looked back. In her career of supporting organizations across Canada for more than fifteen years, Heather has developed a deep appreciation and understanding of the players, pressures and meaningful work being done by the not-for-profit sector. In early 2018, Heather became a [living liver donor](https://www.todaysparent.com/blogs/this-woman-did-the-most-wonderful-thing-for-a-kid-shell-never-meet/) for a stranger in Toronto; for a child whose identity she doesn’t know.
 
 ## Jamie Burton, ccrw.org
 
