@@ -1,10 +1,9 @@
 title: Accessibility Business Hub
 author:
-  name: The Hub Team
+  name: The Business of Accessibility.
 #  email: your-email@domain.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  The Business of Accessibility.
-  Note and Disclaimer: This Hub was created by experts from their respected field. This document is based on the best available evidence at the time of release. We can’t guarantee that the guidance is up to date or current as the pandemic is changing daily.
+  **Note and Disclaimer:** This Hub was created by experts from their respected field. This document is based on the best available evidence at the time of release. We can’t guarantee that the guidance is up to date or current as the pandemic is changing daily.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
