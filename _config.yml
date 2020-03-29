@@ -1,1 +1,5 @@
-theme: jekyll-theme-architect
+theme: elementary
+
+# Exclude these files from production site
+exclude:
+  - ./elementary
