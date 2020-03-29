@@ -8,7 +8,7 @@
 layout: page
 ---
 
-## The Business of Accessibility
+# The Business of Accessibility
 
 The **Accessible Business Hub** is here to aggregate ideas, tools and practices that allow people with disabilities to adapt and organize to the new realities of the novel coronavirus disease (COVID-19). The world has changed for everyone, forever and this Hub will be a portal to information and resources which are aimed at supporting people with disabilities in Canada.
 
