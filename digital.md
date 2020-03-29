@@ -14,5 +14,5 @@ Since we are using more online tools like video conferencing, live streaming and
 * [Microsoft Teams](https://support.office.com/en-us/article/Use-live-captions-in-a-Teams-meeting-4be2d304-f675-4b57-8347-cbd000a21260)
 
 ### Accessibility Statements
-Look for accessibility statements. Some of these are becoming actually useful.
+If you are wondering if a company has Accessibility Features you can search for Accessibility Statements. Listed are statements which we have found useful.
 * [Zoom.us](https://zoom.us/accessibility)
