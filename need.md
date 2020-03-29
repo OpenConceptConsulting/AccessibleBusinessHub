@@ -20,18 +20,26 @@ For individuals living with a disability, Do not panic. Resources and support ar
 Our reccomendations include...
 
 * Check the advice from your local provincial health authorities every 24-48 hours.
-* If you are a person with a disability, have conversations on having a backup plans if your main caregiver becomes sick or is pulled away.
-* Have a back-up plan if your attendant does not come to work or is sick: Create a buddy system that can assist you in receiving the necessary groceries or necessary equipment if local public transportation systems temporarily close.
-* Keep 30 days of medical supplies (catheters and dressing supplies) and medication on hand.
-    * Make sure your list of drugs is up-to-date.
-* Purchase additional batteries for your equipment. Make sure your primary and back up batteries are always charged.
-* Make sure all of your medicines can sustain you for the next 90 days. For individuals with regular weekly needs, stay in contact with your pharmacy and physician.
+* If you are a person with a disability, have conversations on having a backup plan if your main caregiver becomes sick or is pulled away.
+* Have a back-up plan if your attendant does not come to work or is sick.
+* Create a buddy system that can assist you in receiving the necessary groceries or equipment if local public transportation systems temporarily close.
+* Keep 30 days of medical supplies (catheters and dressing supplies) and medications on hand.
+    * Make sure your list of prescription drugs is up-to-date.
+* Purchase additional batteries for your equipment.
+* Make sure your primary and back up batteries are always charged.
+* Make sure all of your medicines can sustain you for the next 90 days.
+* For individuals with regular weekly needs, stay in contact with your pharmacy and physician.
 * Ensure attendants have not travelled to an affected area or outside of Canada in the last 14 days.
 * Ask attendants to wash their hands when they arrive and before they provide any assistance.
-* Put hand sanitizer or disinfecting wipes at the main entrance to your home with a garbage pail for any reduse.
-* Be sure your attendants wash your hands after all assistance.
+* Put hand sanitizer or disinfecting wipes at the main entrance to your home with a garbage pail for any refuse.
+* Be sure your attendants wash their hands after all assistance.
 * Be sure that you wash your hands after all assistance.
 * Prepare your Emergency Go Bag:
-    * Make sure all your financial and medical information is in the bag you have ready in case you need to be relocated to a medical facility or community centre.
-    * List of the local phone numbers in case of emergency. Include key people to inform them of your change of circumstances.     * Set up your smart phone emergency texting group.
-* Before visiting please call to inform the individual you are dropping by. Be ready to answer some questions about your recent engagement with other individuals to see the likelihood of passing on the disease.
+    * Make sure all your financial and medical information is in the bag.
+    * Pack everything you may require in case you need to be relocated to a medical facility or community centre.
+    * List of the local phone numbers in case of emergency. Include key people to inform them of your change of circumstances.
+    * Set up your smart phone emergency texting group.
+    
+For care givers and attendants...
+* Before visiting please call to inform the individual you are dropping by.
+* Be ready to answer any questions about your recent engagement with other individuals to see the likelihood of passing on the disease.
