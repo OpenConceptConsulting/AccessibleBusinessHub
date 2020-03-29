@@ -13,7 +13,7 @@ In September 2019, Max began a business venture with BDO Canada as a Vice-presid
 ## Megan
 
 ## Dean Emerick (if this is too much, let me know)
-Accessibility TV https://www.accessibilitytv.com/
+[Accessibility TV](https://www.accessibilitytv.com/)
 Accessible Digital Media Specialist
 
 Dean Emerick is one of Canada’s leading digital producers. He is an expert in digital communications, Organic SEO, Online Marketing Campaigns and Tracking KPI’s. He’s currently working on the launch of Canada’s first Accessible digital channel expressly designed for the disability community in 2020.
@@ -31,7 +31,8 @@ Jamie Burton is the new Senior Director of Business Solutions at CCRW, Canadian 
 
 Jamie is seconded from her position as the Vice-President of Dolphin Digital Technologies.  Dolphin is a communication technologies firm widely recognized for the use of technology to tackle social issues.  Jamie recognized early on in her career the importance of business making a social impact and helped innovate and implement the first barrier-free hiring strategy for persons with disabilities in Canada. Determined to take the opportunity to drive change in business, Jamie founded Disabilities Mentoring Day in 2011, which has grown from one city to 20 cities in 5 provinces across Canada 159 participating businesses. A true advocate, Jamie has represented Canada on the global stage, speaking about the business advantages of hiring people with disabilities.
 
-## Mike Gifford - @mgifford - OpenConcept Consulting Inc. https://openconcept.ca
+## Mike Gifford - 
+[OpenConcept Consulting Inc.](https://openconcept.ca/)
 
 Mike is the CEO of OpenConcept Consulting Inc. and Drupal Core Accessibility Maintainer. 
 Mike founded the first Ottawa Accessibility Unconference Dec 2, 2011. Since that time he has been involved in co-organizing multiple accessibility events in Ottawa. He has presented at several global accessibility conferences including A11yLondon, CSUN & M-Enabling.
