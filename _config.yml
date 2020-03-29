@@ -50,7 +50,7 @@ minima:
 header_pages:
  - about.md
  - need2know.md
- - workingdigitally.md
+ - digital.md
 
 # Build settings
 theme: minima
