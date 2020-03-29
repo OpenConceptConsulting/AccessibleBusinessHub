@@ -1,4 +1,8 @@
-# About Us
+---
+layout: page
+title: About
+permalink: /about/
+---
 
 ## Max Brault, Senior VP Strategy & Operations BDO Canada
 Max Brault was a bilingual legislation and policy leader with almost 20 years of progressive public-sector experience. His work focused on employment equity, the advancement of workplace accessibility and career development for people with disabilities. Brault helped to guide the federal government toward new and progressive accessibility legislation, Bill C-81, the Accessible Canada Act (the Act).
@@ -28,3 +32,5 @@ Dean’s background in television and film production is extensive. His backgrou
 Mike is the CEO of OpenConcept Consulting Inc. and Drupal Core Accessibility Maintainer. 
 Mike founded the first Ottawa Accessibility Unconference Dec 2, 2011. Since that time he has been involved in co-organizing multiple accessibility events in Ottawa. He has presented at several global accessibility conferences including A11yLondon, CSUN & M-Enabling.
 Mike built a tech company based on collaboration knowing that only by working together, can we address the world's most important challenges. Digital accessibility is a technical problem, but more importantly it is a systems problem. OpenConcept is now doing assessment, training and leadership guidance for organizations looking to build a more digitally inclusive workforce. 
+
+

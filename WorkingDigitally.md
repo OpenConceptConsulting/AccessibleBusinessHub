@@ -1,3 +1,9 @@
+---
+layout: page
+title: Working digitally
+permalink: /digital/
+---
+
 # Working in an Inclusive Digital World
 
 ## Video Captioning
