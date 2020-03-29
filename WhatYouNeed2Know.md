@@ -3,7 +3,7 @@
 This information has been assembled to assist you to organize yourself during the Covid-19 pandemic:
 We want to offer some advice on how the virus may affect disabled people. This advice is specifically about the coronavirus and your disabled employees.
 
-Isolation is a dangerous situation for people with disabilities thatthey rely on common everyday people to live. It is for the reason that a group of individuals have created this >>>>>> Hub. The information that you can locate on the site is to assist Canadians with disabilities and Business on what is available.
+Isolation is a dangerous situation for people with disabilities thatthey rely on common everyday people to live. It is for the reason that a group of individuals have created this Accessible Business Hub. The information that you can locate on the site is to assist Canadians with disabilities and Business on what is available.
  
 We can do this together by following the direction of our public health experts and government officials to collectively address the global pandemic. Normal life will return, just as soon as it’s safe to do so.
 I’m proud of how the Canadians have rallied to respond to this unprecedented challenge. In a short period of time under difficult and rapidly changing circumstances.
