@@ -8,7 +8,7 @@
 layout: page
 ---
 
-## Welcome to the Hub!
+## The Business of Accessibility
 
 The **Accessible Business Hub** is here to aggregate ideas, tools and practices that allow people with disabilities to adapt and organize to the new realities of the novel coronavirus disease (COVID-19) which has fundimentally changed our our society in the last few weeks.
 
