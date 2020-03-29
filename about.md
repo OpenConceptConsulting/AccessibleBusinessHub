@@ -27,6 +27,10 @@ Dean’s background in television and film production is extensive. His backgrou
 
 ## Jamie Burton, ccrw.org
 
+Jamie Burton is the new Senior Director of Business Solutions at CCRW, Canadian Council on Rehabilitation & Work; the only National organization with the sole focus of employment and disability.  Working with her Business Solutions team, Jamie is currently leading the design of a suite of solutions to meet the needs of businesses in response to accessibility, and employment of people with disabilities. 
+
+Jamie is seconded from her position as the Vice-President of Dolphin Digital Technologies.  Dolphin is a communication technologies firm widely recognized for the use of technology to tackle social issues.  Jamie recognized early on in her career the importance of business making a social impact and helped innovate and implement the first barrier-free hiring strategy for persons with disabilities in Canada. Determined to take the opportunity to drive change in business, Jamie founded Disabilities Mentoring Day in 2011, which has grown from one city to 20 cities in 5 provinces across Canada 159 participating businesses. A true advocate, Jamie has represented Canada on the global stage, speaking about the business advantages of hiring people with disabilities.
+
 ## Mike Gifford - @mgifford - OpenConcept Consulting Inc. https://openconcept.ca
 
 Mike is the CEO of OpenConcept Consulting Inc. and Drupal Core Accessibility Maintainer. 
