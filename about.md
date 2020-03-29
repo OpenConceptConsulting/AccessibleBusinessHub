@@ -12,7 +12,7 @@ Max Brault was a bilingual legislation and policy leader with almost 20 years of
 
 In September 2019, Max began a business venture with BDO Canada as a Vice-president of Strategy and Operations with the firm. In this position, he will continue his endeavors, guided by the following vision: To build community by showing the world that Canadians with disabilities contribute to society―and to successful business ventures.
 
-![Max Brault]( <img src=“/assets/images/max.jpg” width= “200”> )
+![Max Brault](/assets/images/max.jpg)
 
 
 ## Dean Emerick, Accessible Digital Media Specialist
