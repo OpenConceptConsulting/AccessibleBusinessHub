@@ -6,6 +6,7 @@ permalink: /about/
 
 ## Max Brault
 Senior VP Strategy & Operations
+
 [BDO Canada](https://bdo.ca)
 
 Max Brault was a bilingual legislation and policy leader with almost 20 years of progressive public-sector experience. His work focused on employment equity, the advancement of workplace accessibility and career development for people with disabilities. Brault helped to guide the federal government toward new and progressive accessibility legislation, Bill C-81, the Accessible Canada Act (the Act).
@@ -17,6 +18,7 @@ In September 2019, Max began a business venture with BDO Canada as a Vice-presid
 
 ## Dean Emerick
 Accessible Digital Media Specialist
+
 [Accessibility TV](https://www.accessibilitytv.com/)
 
 Dean Emerick is one of Canada’s leading digital producers. He is an expert in digital communications, Organic SEO, Online Marketing Campaigns and Tracking KPI’s. He’s currently working on the launch of Canada’s first Accessible digital channel expressly designed for the disability community in 2020.
@@ -30,6 +32,7 @@ Dean’s background in television and film production is extensive. His backgrou
 
 ## Heather Badenoch
 Public Relations
+
 [Village PR](http://Villagepr.ca)
 
 Heather Badenoch believes in the power of not-for-profits and the strength they have to effect change for people, animals and our environment. As the Chief Strategist at [Village PR](http://villagepr.ca/) she provides communications planning and implementation, public relations, social media engagement, and training to not-for-profits across Canada.
@@ -40,6 +43,7 @@ Heather works strategically and creatively with her clients to accomplish their 
 
 ## Jamie Burton
 Senior Director of Business Solutions
+
 [Canadian Council on Rehabilitation and Work](https://www.ccrw.org/)
 
 Jamie Burton is the new Senior Director of Business Solutions at CCRW, Canadian Council on Rehabilitation & Work; the only National organization with the sole focus of employment and disability.  Working with her Business Solutions team, Jamie is currently leading the design of a suite of solutions to meet the needs of businesses in response to accessibility, and employment of people with disabilities. 
