@@ -14,9 +14,13 @@ How to get your business listed...
 
 What we require:
 
+✅ Your Business Email
+
 ✅ Your Name
 
-✅ Your Business Email
+✅ Your Title
+
+✅ Your Organanization
 
 ✅ A 100-word description of how you are responding to the needs of people with disabilities during COVID. Not just a general company profile.
 
