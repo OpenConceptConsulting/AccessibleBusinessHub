@@ -9,13 +9,13 @@ permalink: /need/
 This information has been assembled to assist you to organize yourself during the Covid-19 pandemic:
 We want to offer some advice on how the virus may affect disabled people. This advice is specifically about the coronavirus and your disabled employees.
 
-Isolation is a dangerous situation for people with disabilities since they rely on common everyday people to get through their day. That is why we created the Accessible Business Hub. The information that is available on this site is there to assist Canadians with disabilities, and Businesses on resources that are avaialble online.
+Isolation is a dangerous situation for people with disabilities since they rely on common everyday people to get through their day, every day. That is why we created the Accessible Business Hub. The information that is available on this site is here to assist Canadians with disabilities, and provide Businesses with resources to help them support their customers, clients and employees with accessibility issues.
  
-Meanwhile it is up to us as individuals to do our part by following the direction of our public health experts and government officials to collectively address the global pandemic. Normal life will return, just as soon as it’s safe to do so, and we are proud of how Canadians have rallied to respond to this unprecedented challenge. In a short period of time, under difficult and rapidly changing circumstances. Our hearts and thoughts go out to the people who have been affected by this unpresented event and we appreciate the healthcare workers, local communities and governments around the world who are on the front line working to contain this pandemic.
+Meanwhile it is up to us as individuals to do our part by following the direction of our public health experts and government officials to collectively address the global pandemic. Normal life will return, just as soon as it’s safe to do so. In the meantime, we are very proud of how Canadians have rallied to respond to this unprecedented challenge under difficult and rapidly changing circumstances. Our hearts and thoughts go out to the people who have been affected by this unpresented event and we appreciate the healthcare workers, local communities and governments around the world who are on the front line working to contain this pandemic.
 
 In closing, we want to thank you, our fellow Canadians, government authorities and the members of our health services. Our country has never before been faced with such a challenge however our spirit of community and commitment has never been stronger. Please take care of yourselves and one another.
 
-For individuals living with a disability, Do not panic. Resources and support are available. Please take the necessary time to think through your situation and ask yourself “if” this happens "how" you would manage it?
+For individuals living with a disability... Do Not Panic. Resources and support are available. Please take the necessary time to think through your situation and ask yourself “if” this happens "how" you would manage it?
 
 Our reccomendations include...
 
