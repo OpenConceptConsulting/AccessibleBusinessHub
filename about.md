@@ -17,11 +17,11 @@ Also in 2019, Max joined BDO Canada as the Vice-president of Strategy and Operat
 Accessible Digital Media Specialist 
 [Accessibility TV](https://www.accessibilitytv.com/)
 
-Dean Emerick is one of Canada’s leading digital producers. He is an expert in digital communications, Organic SEO, Online Marketing Campaigns and Tracking KPI’s. He’s currently working on the launch of Canada’s first Accessible digital channel expressly designed for the disability community in 2020.
+Dean Emerick is one of Canada’s leading digital producers. He is an expert in digital communications, Organic SEO and Online Marketing Campaigns. He’s currently working on the launch of Canada’s first Accessible online digital channel. Accessibility TV focusses on the business of Accessibility.
  
-Digital: Dean is a thought leader and innovator in digital communications. He has worked in the SEO and Online Marketing space since the early turn of the century. He uploaded his first video to YouTube in 2007 and shortly thereafter created The Shotgun Show, an engaging online interview series that took place in a car, years before Jerry Seinfeld launched his now famous online show. His results were equally impressive with over 500,000 views and 15,000 subscribers to his channel. Dean currently is focused on offering clients an opportunity to leverage Exciting New Technology to drive digital transformation in their organizations.
+Digital: Dean is a thought leader and innovator in digital communications. He has worked in the SEO and Online Marketing space since the late 90's. He uploaded his first video to YouTube in 2007 and then created The Shotgun Show. It is an engaging online interview series that took place in a car. And it debuted years before Jerry Seinfeld launched his now famous online show. His results were impressive with over 500,000 views and 15,000 subscribers to his channel. His current focus is to leverage drive digital transformation for organizations.
  
-Dean’s background in television and film production is extensive. His background includes working on some of North American’s most successful TV series and providing video production services to several of Canada’s most well-known brands, people-of-note and celebrities. 
+Dean’s background in television and film production is extensive. It includes working on some of North American’s most successful TV series. It also includes working with Canada’s most well-known brands, people-of-note and celebrities.
 
 
 ## Heather Badenoch
