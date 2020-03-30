@@ -32,3 +32,10 @@ If you are wondering if a company has Accessibility Features you can search for 
 * [WordPress](https://en-ca.wordpress.org/about/accessibility/)
 * [Drupal](https://www.drupal.org/about/features/accessibility)
 
+### Stay Informed
+There is just so much great information available to help people learn how to create more accessibile digital content.
+* Sign up to OpenConcept's monthly [Accessibility Action Newsletter](https://mailchi.mp/133e3c60c3f6/accessibility-action)
+* Sign up to [A11y Weekly](https://a11yweekly.com/) newsletter.
+* Pick from tonnes of great [accessibility videos to watch](https://www.youtube.com/inclusivedesign24) and share the good ones with your team.
+* Check out the [A11y Project](https://a11yproject.com/) and their resources
+* Follow some of these [great folks on Twitter](https://github.com/joe-watkins/top-people-to-follow-in-web-accessibility). 
