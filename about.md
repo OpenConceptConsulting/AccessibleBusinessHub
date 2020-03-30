@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Accessible Resource Team
+title: About
 permalink: /about/
 ---
 
