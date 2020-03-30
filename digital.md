@@ -18,3 +18,9 @@ Since we are using more online tools like video conferencing, live streaming and
 ### Accessibility Statements
 If you are wondering if a company has Accessibility Features you can search for Accessibility Statements. Listed are statements which we have found useful.
 * [Zoom.us](https://zoom.us/accessibility)
+* [Rogers](https://www.rogers.com/consumer/support/accessibility-services)
+* [Bell Canada](https://www.bell.ca/Accessibility_services)
+* [CBC](https://www.cbc.ca/accessibility/)
+* [WordPress](https://en-ca.wordpress.org/about/accessibility/)
+* [Drupal](https://www.drupal.org/about/features/accessibility)
+
