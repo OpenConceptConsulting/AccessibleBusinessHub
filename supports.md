@@ -14,9 +14,9 @@ How to get your business listed...
 
 What we require:
 
-✅ Your Business Email
-
 ✅ Your Name
+
+✅ Your Business Email
 
 ✅ Your Title
 
