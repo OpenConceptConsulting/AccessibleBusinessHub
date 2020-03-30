@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: The Accessible Resource Team
 permalink: /about/
 ---
 
@@ -13,7 +13,6 @@ Max Brault was a bilingual legislation and policy leader with almost 20 years of
 In September 2019, Max began a business venture with BDO Canada as a Vice-president of Strategy and Operations with the firm. In this position, he will continue his endeavors, guided by the following vision: To build community by showing the world that Canadians with disabilities contribute to society―and to successful business ventures.
 
 
-
 ## Dean Emerick
 Accessible Digital Media Specialist 
 [Accessibility TV](https://www.accessibilitytv.com/)
@@ -23,7 +22,6 @@ Dean Emerick is one of Canada’s leading digital producers. He is an expert in 
 Digital: Dean is a thought leader and innovator in digital communications. He has worked in the SEO and Online Marketing space since the early turn of the century. He uploaded his first video to YouTube in 2007 and shortly thereafter created The Shotgun Show, an engaging online interview series that took place in a car, years before Jerry Seinfeld launched his now famous online show. His results were equally impressive with over 500,000 views and 15,000 subscribers to his channel. Dean currently is focused on offering clients an opportunity to leverage Exciting New Technology to drive digital transformation in their organizations.
  
 Dean’s background in television and film production is extensive. His background includes working on some of North American’s most successful TV series and providing video production services to several of Canada’s most well-known brands, people-of-note and celebrities. 
-
 
 
 ## Heather Badenoch
@@ -42,6 +40,7 @@ Senior Director of Business Solutions
 Jamie Burton is the new Senior Director of Business Solutions at CCRW, Canadian Council on Rehabilitation & Work; the only National organization with the sole focus of employment and disability.  Working with her Business Solutions team, Jamie is currently leading the design of a suite of solutions to meet the needs of businesses in response to accessibility and employment for people with disabilities. 
 
 Jamie is seconded from her position as the Vice-President of Dolphin Digital Technologies.  Dolphin is a communication technologies firm widely recognized for the use of technology to tackle social issues.  Jamie recognized early on in her career the importance of business making a social impact and helped innovate and implement the first barrier-free hiring strategy for persons with disabilities in Canada. Determined to take the opportunity to drive change in business, Jamie founded Disabilities Mentoring Day in 2011, which has grown from one city to 20 cities in 5 provinces across Canada 159 participating businesses. A true advocate, Jamie has represented Canada on the global stage, speaking about the business advantages of hiring people with disabilities.
+
 
 ## Mike Gifford
 Founder & CEO  
