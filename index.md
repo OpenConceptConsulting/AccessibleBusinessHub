@@ -9,3 +9,5 @@ The **Accessible Business Hub** is here to aggregate ideas, tools and practices 
 You can learn [about us](/about/) and what inspired us to set up this hub. We have collected what we see as critical information about [what you need to know](/need/) as a person with disabilities. Physical distancing is forcing us to cchnge how we communicate and interact with one another in our personal lives and professionally. Equally, we now need help from the business community to know that they understand, and are making changes, to keep us safe as employees, clients and customers.
 
 Here are some resources support [digital inclusion](/digital/). 
+
+If you have suggestions of [links that you think should be included](https://forms.gle/3JZ7YK95zMHABh2s9), please add them.
