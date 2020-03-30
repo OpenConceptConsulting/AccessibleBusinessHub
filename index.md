@@ -59,4 +59,4 @@ Preparedness tips include the following.
 * Set up your smart phone emergency texting group.
 
 
-Feel free to submit suggestions of[links to be included HERE](https://forms.gle/3JZ7YK95zMHABh2s9). Our team will vet your suggestions and add them to the master document.
+Feel free to submit suggestions of [resources to be included by clicking this Link](https://forms.gle/3JZ7YK95zMHABh2s9). Our team will vet your suggestions and add them to the master document.
