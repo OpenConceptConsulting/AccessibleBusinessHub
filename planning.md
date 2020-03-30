@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Planning Ahead
-permalink: /planning ahead/
+permalink: /planning/
 ---
 
 The virus and physical distancing may affect people with disabilities differently than the rest of the Canadian population.
