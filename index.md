@@ -59,6 +59,4 @@ Preparedness tips include the following.
 * Set up your smart phone emergency texting group.
 
 
-Here are some resources support [digital inclusion](/digital/). 
-
-If you have suggestions of [links that you think should be included](https://forms.gle/3JZ7YK95zMHABh2s9), please add them.
+Feel free to submit suggestions of[links to be included HERE](https://forms.gle/3JZ7YK95zMHABh2s9). Our team will vet your suggestions and add them to the master document.
