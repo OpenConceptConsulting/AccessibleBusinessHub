@@ -28,7 +28,7 @@ Dean’s background in television and film production is extensive. It includes 
 **Chief Strategist 
 [Village PR](http://Villagepr.ca)**
 
-Heather Badenoch believes in the power of not-for-profits and the strength they have to effect change for people, animals and our environment. As the Chief Strategist at [Village PR] (http://villagepr.ca/) she has advised health, disability, food security, community and environmental clients. From strategic communications planning to media training, Heather works creatively with her clients to accomplish their goals.
+Heather Badenoch believes in the power of not-for-profits and the strength they have to effect change for people, animals and our environment. As the Chief Strategist at [Village PR](http://villagepr.ca/) she has advised health, disability, food security, community and environmental clients. From strategic communications planning to media training, Heather works creatively with her clients to accomplish their goals.
  
 In 2002, Heather left private sector communications to find meaningful work that aligned with her values. Feeling an instant connection to individuals relentlessly dedicated to change, she found her calling in the not-for-profit sector and has never looked back. 
 
