@@ -58,5 +58,7 @@ Preparedness tips include the following.
 * List of the local phone numbers in case of emergency. Include key people to inform them of your change of circumstances.
 * Set up your smart phone emergency texting group.
 
-
-Feel free to submit suggestions of [resources to be included by clicking this Link](https://forms.gle/3JZ7YK95zMHABh2s9). Our team will vet your suggestions and add them to the master document.
+** How to Submit Links**
+* Feel free to submit suggestions of [resources to be included by clicking this Link](https://forms.gle/3JZ7YK95zMHABh2s9).
+* Our team will vet your suggestions.
+* New links will be added to the master document.
