@@ -6,9 +6,11 @@ permalink: /Accessibility Supports/
 
 Businesses are changing how their services are offered—from pharmacies to grocery stores. This page provides a directory of business with specific services for people with disabilities.
 
-<center>**👉 There is no cost to be listed on the site or to access the site. And there never will be. 👈**</center>
+**👉 There is no cost to be listed on the site or to access the site. And there never will be. 👈**
+
 
 How to get your business listed...
+
 
 What we require:
 
@@ -22,7 +24,7 @@ What we require:
 
 ✅ Your company logo (.png or .jpg).
 
-[CLICK HERE for the Form](https://docs.google.com/forms/d/e/1FAIpQLSejm5ZIHrn6IIcvWNifnCeHyQnGI5yVBJNoFc_MGgaCVHvFYA/viewform)
+[CLICK HERE to fill out an easy to use Form](https://docs.google.com/forms/d/e/1FAIpQLSejm5ZIHrn6IIcvWNifnCeHyQnGI5yVBJNoFc_MGgaCVHvFYA/viewform)
 
 
 
