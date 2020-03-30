@@ -20,7 +20,7 @@ What we require:
 
 ✅ Your Title
 
-✅ Your Organanization
+✅ Your Organization
 
 ✅ A 100-word description of how you are responding to the needs of people with disabilities during COVID. Not just a general company profile.
 
