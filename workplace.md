@@ -4,7 +4,7 @@ title: Our Workplace
 permalink: /workplace/
 ---
 
-## The Ways the Coronavirus has Changed Our Workplace for the Better
+## Ways the Coronavirus May Have Changed Our Workplace for the Better
 
 Canadian Business and Governments are making massive changes due to he coronavirus threat. Some of these changes will be temporary, while others will have a deeper effect. We will not know until the virus passes and we are back to the new normal.
 
