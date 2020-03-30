@@ -4,8 +4,6 @@ title: Planning Ahead
 permalink: /planning ahead/
 ---
 
-## Planning Ahead
-
 The virus and physical distancing may affect people with disabilities differently than the rest of the Canadian population.
 
 Physical distancing and the risk that a caregiver gets sick is a dangerous situation for many people with disabilities. Additionally, people with disabilities may be more physically vulnerable and face [higher exposure risks](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html#r).
