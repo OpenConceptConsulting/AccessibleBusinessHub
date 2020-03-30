@@ -1,22 +1,18 @@
 ---
 layout: page
-title: Vulnerable Groups
-permalink: /vulnerable/
+title: Available Supports
+permalink: /Accessibility Supports/
 ---
 
-## What is meant by “Individuals with Pre-Existing Condition” or “Vulnerable groups”? 
+Businesses are changing how their services are offered—from pharmacies to grocery stores. This page provides a directory of business with specific services for people with disabilities.
 
-What is meant by “Individuals with Pre-Existing Condition” or “Vulnerable groups”? 
+There is no cost to be listed on the site or to access the site. And there never will be.
 
-Not all people with disabilities will fall into the category of “vulnerable groups”. And not everyone in this category will self-identify as disabled. “Vulnerable groups” refers to people who are more susceptible to the coronavirus and Covid-19. This group includes those who are:
-* Aged 70 or older (regardless of medical conditions)
-* Less than 70 with an underlying health condition listed below (i.e. anyone instructed to get a flu shot as an adult each year on medical grounds)
-* Chronic (long-term) respiratory diseases, such as asthma, chronic obstructive pulmonary disease (COPD), emphysema or bronchitis.
-* Chronic heart disease, such as heart failure
-* Chronic liver disease, such as hepatitis
-* Chronic kidney disease
-* Chronic neurological conditions, (i.e. such as Parkinson’s disease, motor neurone disease, multiple sclerosis (MS), a learning disability or cerebral palsy)
-* Diabetes
-* Problems with your spleen, (i.e. if you've had sickle cell disease or had your spleen replaced)
-* Being seriously overweight (a body mass index (BMI) of 40 or above)
-* Those who are pregnant
+How to get your business listed... [CLICK HERE](https://docs.google.com/forms/d/e/1FAIpQLSejm5ZIHrn6IIcvWNifnCeHyQnGI5yVBJNoFc_MGgaCVHvFYA/viewform)
+
+you will need: 
+Your company logo (.png or .jpg).
+A 100-word description of how you are responding to the needs of people with disabilities during COVID. Not just a general company profile.
+The link directly to the specific page on your website where people can get more information.
+
+Click here for the [Current Directory of Canadian Accessible Services](
