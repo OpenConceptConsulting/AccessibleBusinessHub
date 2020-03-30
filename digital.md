@@ -9,6 +9,13 @@ As we are all being required to respect physical distancing, it means that many 
 
 When creating digital content it is important to remember that [we all have a role](https://accessibility-for-teams.com/). Authors, designers, and developers all have a role in ensuring that ideas can be understood by the user. Digital tools are designed to be interactive, so special attention needs to be placed in ensuring that people using assistive technology can access them. We must also remember that very few of us are working in ideal conditions, particularly as we struggle to blance home/life responsibilities. 
 
+### Test Websites & HTML Emails
+There are lots of tools out there to help you understand where there might be digital barriers for your teams and clients. Test your site with these free services:
+* [WAVE Toolbar](https://wave.webaim.org/)
+* [Accessibility Insights](https://accessibilityinsights.io/)
+* [Color Contrast Ratio](https://contrast-ratio.com/)
+* [Tenon.io for HTML Email](https://blog.tenon.io/introducing-html-email-testing)
+
 ### Video Captioning
 Since we are using more online tools like video conferencing, live streaming and webcasting to have conversations and meetings, here are a few resources which can be used to provide captions for those with hearing impairments or who are trying to work in a noisy environment.
 * [Skype](https://support.skype.com/en/faq/FA34877/how-do-i-turn-live-captions-subtitles-on-during-a-skype-call)
