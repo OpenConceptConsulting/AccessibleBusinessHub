@@ -10,11 +10,16 @@ Businesses are changing how their services are offered—from pharmacies to groc
 
 How to get your business listed... [CLICK HERE](https://docs.google.com/forms/d/e/1FAIpQLSejm5ZIHrn6IIcvWNifnCeHyQnGI5yVBJNoFc_MGgaCVHvFYA/viewform)
 
-What you will need:
+What we require:
+
 ✅ Your Name
+
 ✅ Your Business Email
+
 ✅ A 100-word description of how you are responding to the needs of people with disabilities during COVID. Not just a general company profile.
+
 ✅ The link directly to the specific page on your website where people can get more information.
+
 ✅ Your company logo (.png or .jpg).
 
 
