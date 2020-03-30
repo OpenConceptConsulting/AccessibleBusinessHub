@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Available Supports
-permalink: /Accessibility Supports/
+permalink: /supports/
 ---
 
 Businesses are changing how their services are offered—from pharmacies to grocery stores. This page provides a directory of business with specific services for people with disabilities.
