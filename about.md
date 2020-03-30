@@ -8,9 +8,9 @@ permalink: /about/
 Senior VP Strategy & Operations 
 [BDO Canada](https://bdo.ca)
 
-Max Brault was a bilingual legislation and policy leader with almost 20 years of progressive public-sector experience. His work focused on employment equity, the advancement of workplace accessibility and career development for people with disabilities. Brault helped to guide the federal government toward new and progressive accessibility legislation, Bill C-81, the Accessible Canada Act (the Act).
+20 years of progressive policy experience has made Max Brault an Accessibility leader. His focus was on employment equity and the advancement of workplace accessibility. He also fought for improving career development for people with disabilities. Max also helped guide the federal government toward new and progressive accessibility legislation. The result was that in 2019, Bill C-81 became the Accessible Canada Act.
 
-In September 2019, Max began a business venture with BDO Canada as a Vice-president of Strategy and Operations with the firm. In this position, he will continue his endeavors, guided by the following vision: To build community by showing the world that Canadians with disabilities contribute to society―and to successful business ventures.
+Also in 2019, Max joined BDO Canada as the Vice-president of Strategy and Operations. But he continues to fight for Accessibility issues in the private and public sectors. His vision is to show the world that disabled Canadians contribute to society. And he also demonstrates that they contribute to successful business ventures.
 
 
 ## Dean Emerick
