@@ -24,7 +24,7 @@ What we require:
 
 ✅ Your company logo (.png or .jpg).
 
-[CLICK HERE to fill out an easy to use Form](https://docs.google.com/forms/d/e/1FAIpQLSejm5ZIHrn6IIcvWNifnCeHyQnGI5yVBJNoFc_MGgaCVHvFYA/viewform)
+[CLICK HERE to Fill Out an Easy to Use Form](https://docs.google.com/forms/d/e/1FAIpQLSejm5ZIHrn6IIcvWNifnCeHyQnGI5yVBJNoFc_MGgaCVHvFYA/viewform)
 
 
 
