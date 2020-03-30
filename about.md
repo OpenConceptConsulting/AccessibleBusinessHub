@@ -45,7 +45,7 @@ Jamie is seconded from her position as the Vice-President of Dolphin Digital Tec
 
 
 ## Mike Gifford
-**Founder & CEO  
+**Founder & CEO 
 [OpenConcept Consulting Inc.](https://openconcept.ca/)**
 
 Mike is the CEO of OpenConcept Consulting Inc. and Drupal Core Accessibility Maintainer. 
