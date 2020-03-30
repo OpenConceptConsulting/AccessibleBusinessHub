@@ -1,12 +1,10 @@
 ---
 layout: page
-title: What You Need to Know
-permalink: /need/
+title: Planning Ahead
+permalink: /planning ahead/
 ---
 
-## Coronavirus and Disability: What you need to know
- 
-**Planning Ahead**
+## Planning Ahead
 
 The virus and physical distancing may affect people with disabilities differently than the rest of the Canadian population.
 
