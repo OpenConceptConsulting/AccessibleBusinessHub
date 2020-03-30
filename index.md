@@ -37,7 +37,7 @@ Preparedness tips include the following.
 * Before visiting please call to inform the individual you are dropping by.
 * Be ready to answer any questions about your recent engagement with other individuals to see the likelihood of passing on the disease.
 
-**Groceries and essentials**
+**Groceries and Essentials**
 * Create a buddy system to make sure you get groceries, equipment and other necessities if local public transit systems temporarily close.
 
 
