@@ -10,6 +10,8 @@ Physical distancing and the risk that a caregiver gets sick is a dangerous situa
 
 For individuals living with a disability and their supports, please know that resources and support are available. Please take the necessary time to think through your situation and various scenarios. Plan ahead for situations and how you would manage.
 
+<iframe title=“Video: Accessibility Preparedness Tips for Covid 19" width="560" height="315" src="https://www.youtube.com/embed/FztIXeJB5wY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Preparedness tips include the following.
 
 **General**
