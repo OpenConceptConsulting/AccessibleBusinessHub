@@ -48,3 +48,5 @@ Preparedness tips include the following.
 * List of the local phone numbers in case of emergency. Include key people to inform them of your change of circumstances.
 * Set up your smart phone emergency texting group.This information has been assembled to assist you to organize yourself during the Covid-19 pandemic:
 We want to offer some advice on how the virus may affect disabled people. This advice is specifically about the coronavirus and your disabled employees.
+
+**[Click here to Access the Current Directory of Vetted Canadian Accessible Services](https://tinyurl.com/a11ycovid19)**
