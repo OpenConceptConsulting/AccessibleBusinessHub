@@ -15,3 +15,5 @@ Physical distancing is forcing us to change how we communicate and interact with
 * Our team will vet your suggestions.
 * New links will be added to the master document.
 * Thank you in advance.
+
+**[Click here to Access the Current Directory of Vetted Canadian Accessible Services](https://tinyurl.com/a11ycovid19)**
