@@ -12,7 +12,8 @@ For individuals living with a disability and their supports, please know that re
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FztIXeJB5wY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Preparedness tips include the following.
+
+**Preparedness tips include the following...**
 
 **General**
 * Keep up to date on the situation. This can include following your local health authority on social media or checking their website.
