@@ -17,3 +17,5 @@ Making it possible for employees to continue working from home will benefit busi
 **Medical**
 Employers and employees do not want to catch coronavirus (or anything nasty kicking around) when visiting the doctor’s office. Do not be surprised when, instead of sitting in a doctor’s office waiting room for two hours, you stay at work, and the receptionist calls you and says, “the doctor will see you now.” This is another beneficial practice we’d like to see continue.
 
+**[Click here to Access the Current Directory of Vetted Canadian Accessible Services](https://tinyurl.com/a11ycovid19)**
+
