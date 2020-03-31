@@ -17,11 +17,11 @@ Also in 2019, Max joined BDO Canada as the [Vice-president of Strategy and Opera
 **Accessible Digital Media Specialist 
 [Accessibility TV](https://www.accessibilitytv.com/)**
 
-Dean Emerick is one of Canada’s leading digital producers. He is an expert in digital communications, Organic SEO and Online Marketing Campaigns. He’s currently working on the launch of Canada’s first Accessible online digital channel. [Accessibility TV](https://www.accessibilitytv.com/about-accessibility/) focusses on the business of Accessibility.
+Dean Emerick is one of Canada’s leading digital producers. He is an expert in digital communications, Organic SEO and Online Marketing Campaigns. He’s currently working on the launch of Canada’s first Accessible online digital channel. [Accessibility TV](https://www.accessibilitytv.com) focusses on the Business of Accessibility.
  
-Digital: Dean is a thought leader and innovator in digital communications. He has worked in the SEO and Online Marketing space since the late 90's. He uploaded his first video to YouTube in 2007 and then created The Shotgun Show. It is an engaging online interview series that took place in a car. And it debuted years before Jerry Seinfeld launched his now famous online show. His results were impressive with over 500,000 views and 15,000 subscribers to his channel. His current focus is to leverage drive digital transformation for organizations.
- 
-Dean’s background in television and film production is extensive. It includes working on some of North American’s most successful TV series. It also includes working with Canada’s most well-known brands, people-of-note and celebrities.
+Dean is a thought leader and innovator in digital communications. He uploaded his first video to YouTube in 2007 and then created The Shotgun Show. It is an engaging online Business series which took place in a car, years before Jerry Seinfeld launched his now famous online show. His results were impressive with over 500,000 views and 15,000 subscribers to his channel. He also worked on some of North American’s most successful Feature Films and TV series. His experience also includes working with Canada’s most well-known brands, people-of-note and celebrities.
+
+His current focus is to assist companies, organizations and government departments to take advantage of the current global situation. After all, it is not often that you have a **Captive Audience**! Now is the time to reconnect your followers, engage your friends and exponentially multiply your connections. Because this will end, and when it does you will want to know [How to Go From Flattening the Curve to Riding the Wave](https://www.accessibilitytv.com/accessible/viral-marketing-strategy/). You won't be dissapointed. 
 
 
 ## Heather Badenoch
