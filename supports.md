@@ -28,8 +28,8 @@ What we require:
 
 ✅ Your company logo (.png or .jpg).
 
-[CLICK HERE to Fill Out an Easy to Use Form](https://docs.google.com/forms/d/e/1FAIpQLSejm5ZIHrn6IIcvWNifnCeHyQnGI5yVBJNoFc_MGgaCVHvFYA/viewform)
+[CLICK HERE to FILL OUT an EASY to USE FORM](https://docs.google.com/forms/d/e/1FAIpQLSejm5ZIHrn6IIcvWNifnCeHyQnGI5yVBJNoFc_MGgaCVHvFYA/viewform)
 
 
 
-Click here for the Current Directory of Canadian Accessible Services
+**[Click here to Access the Current Directory of Vetted Canadian Accessible Services](https://tinyurl.com/a11ycovid19)**
