@@ -38,4 +38,6 @@ There is just so much great information available to help people learn how to cr
 * Sign up to [A11y Weekly](https://a11yweekly.com/) newsletter.
 * Pick from tonnes of great [accessibility videos to watch](https://www.youtube.com/inclusivedesign24) and share the good ones with your team.
 * Check out the [A11y Project](https://a11yproject.com/) and their resources
-* Follow some of these [great folks on Twitter](https://github.com/joe-watkins/top-people-to-follow-in-web-accessibility). 
+* Follow some of these [great folks on Twitter](https://github.com/joe-watkins/top-people-to-follow-in-web-accessibility).
+
+**[Click here to Access the Current Directory of Vetted Canadian Accessible Services](https://tinyurl.com/a11ycovid19)**
