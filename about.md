@@ -53,5 +53,5 @@ Mike founded the first Ottawa Accessibility Unconference Dec 2, 2011. Since that
 Mike built a tech company based on collaboration knowing that only by working together, can we address the world's most important challenges. Digital accessibility is a technical problem, but more importantly it is a systems problem. OpenConcept is now doing assessment, training and leadership guidance for organizations looking to build a more digitally inclusive workforce. 
 
 
-
+**[Click here to Access the Current Directory of Vetted Canadian Accessible Services](https://tinyurl.com/a11ycovid19)**
 
