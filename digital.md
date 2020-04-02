@@ -29,6 +29,7 @@ If you are wondering if a company has Accessibility Features you can search for 
 * [Zoom.us](https://zoom.us/accessibility)
 * [Rogers](https://www.rogers.com/consumer/support/accessibility-services)
 * [Bell Canada](https://www.bell.ca/Accessibility_services)
+* [TELUS](https://www.telus.com/en/brand-resources/technology/accessibility)
 * [CBC](https://www.cbc.ca/accessibility/)
 * [WordPress](https://en-ca.wordpress.org/about/accessibility/)
 * [Drupal](https://www.drupal.org/about/features/accessibility)
