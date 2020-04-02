@@ -22,6 +22,7 @@ Since we are using more online tools like video conferencing, live streaming and
 * [Zoom.us](https://support.zoom.us/hc/en-us/articles/207279736-Getting-Started-with-Closed-Captioning)
 * [Microsoft Teams](https://support.office.com/en-us/article/Use-live-captions-in-a-Teams-meeting-4be2d304-f675-4b57-8347-cbd000a21260)
 * [Google Meet](https://support.google.com/meet/answer/9300310?co=GENIE.Platform%3DDesktop&hl=en)
+* [Webex](https://help.webex.com/en-us/WBX47352/How-Do-I-Enable-Closed-Captions)
 
 ### Accessibility Statements
 If you are wondering if a company has Accessibility Features you can search for Accessibility Statements. Listed are statements which we have found useful.
