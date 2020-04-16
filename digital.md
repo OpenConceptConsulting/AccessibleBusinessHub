@@ -11,7 +11,7 @@ When creating digital content it is important to remember that [we all have a ro
 
 In an era of social distancing and remote work, more people are having to move an increasing portion of their lives online. Some services are only being offered online, but much of the time accessibility hasn't been considered. With all of the investment that is going into [digital transformation in light of COVID-19, it is more critical than ever that accessibility is addressed properly](https://medium.com/openconcept-stories/covid-19-digital-transformation-accessibility-197a7b252deb). 
 
-There are more organizations sharing what they have tried. Drake Music in the UK put together this list of suggestions for [Accessibility in Video Conferencing and Remote Meetings](https://www.drakemusic.org/blog/becky-morris-knight/accessibility-in-video-conferencing-and-remote-meetings/).
+There are more organizations sharing what they have tried. Drake Music in the UK put together this list of suggestions for [Accessibility in Video Conferencing and Remote Meetings](https://www.drakemusic.org/blog/becky-morris-knight/accessibility-in-video-conferencing-and-remote-meetings/). DisabilityIN has put together some [great resources on COVID-19 and disability](https://disabilityin.org/resource/covid-19-disability-inclusion/) including material on [accessible tools and remote work](https://disabilityin.org/resource/covid-19-response-accessible-tools-and-content/).
 
 ### Test Websites & HTML Emails
 There are lots of tools out there to help you understand where there might be digital barriers for your teams and clients. Test your site with these free services:
