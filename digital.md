@@ -46,4 +46,6 @@ There is just so much great information available to help people learn how to cr
 * Check out the [A11y Project](https://a11yproject.com/) and their resources
 * Follow some of these [great folks on Twitter](https://github.com/joe-watkins/top-people-to-follow-in-web-accessibility).
 
+If you are organizing a [virtual event here are some other things to consider](https://www.bounteous.com/insights/2020/04/16/addressing-accessibility-concerns-virtual-conferences/?lang=en-ca). 
+
 **[Click here to Access the Current Directory of Vetted Canadian Accessible Services](https://tinyurl.com/a11ycovid19)**
